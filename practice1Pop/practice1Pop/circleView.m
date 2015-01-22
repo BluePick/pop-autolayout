@@ -18,8 +18,8 @@
     // Drawing code
     self.layer.masksToBounds = YES;
     self.layer.cornerRadius = self.frame.size.height/2;
-    self.layer.borderColor = [[UIColor blackColor]CGColor];
-    self.layer.borderWidth = 2;
+    self.layer.borderColor = [[UIColor lightGrayColor]CGColor];
+//    self.layer.borderWidth = 2;
 }
 
 @end
